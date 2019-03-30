@@ -16,4 +16,7 @@ python autoencoder.py --lose mse --epochs 1000 --name hirise
 ```
 a tensorflow graph will be saved to: Python/out/frozen_hirise.bytes
 
-Load this graph into Unity and change the resolution of the 2d output
+Create a game object in unity and give it some mesh components, then attach the meshGenerator.cs script
+
+![](https://github.com/pearsonkyle/Mars-Machina/blob/master/unity_loadmodel.png)
+
