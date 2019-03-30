@@ -29,3 +29,6 @@ Create a game object in unity and give it some mesh components, then attach the 
 ![](https://github.com/pearsonkyle/Mars-Machina/blob/master/unity_loadmodel.png)
 
 For getting started with Tensorflow in Unity see: https://github.com/pearsonkyle/Unity-Variational-Autoencoder
+
+An example of the latent space generations after 1000 epochs of training:
+![](https://github.com/pearsonkyle/Mars-Machina/blob/master/Python/vae_hirise/digits_over_latent.png)
