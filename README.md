@@ -24,7 +24,7 @@ python autoencoder.py --lose mse --epochs 1000 --name hirise
 ```
 a tensorflow graph will be saved to: Python/out/frozen_hirise.bytes
 
-Create a game object in unity and give it some mesh components, then attach the meshGenerator.cs script
+Create a game object in unity and give it some mesh components, then attach the [meshGenerator.cs](https://github.com/pearsonkyle/Mars-Machina/blob/master/meshGenerator.cs) script
 
 ![](https://github.com/pearsonkyle/Mars-Machina/blob/master/unity_loadmodel.png)
 
