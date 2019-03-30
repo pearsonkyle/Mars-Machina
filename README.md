@@ -4,7 +4,7 @@ A deep convolutional variational autoencoder trained on digital terrain maps of 
 ![](https://github.com/pearsonkyle/Mars-Machina/blob/master/Mar%2029%202019%205_27%20PM%20-%20Edited.gif)
 
 ## Dependencies
-- Unity 3D
+- [Unity 3D](https://unity.com/)
 - [Unity ML Agents](https://github.com/llSourcell/Unity_ML_Agents/tree/master/docs)
 - https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity-(Experimental).md
 - Python 3.6+
