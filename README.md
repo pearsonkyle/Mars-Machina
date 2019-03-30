@@ -11,12 +11,12 @@ A deep convolutional variational autoencoder trained on digital terrain maps of 
 - Keras, Tensorflow, Matplotlib, Numpy, PIL, Scikit-learn
 
 ## Python
-A [DCVAE](https://github.com/chaitanya100100/VAE-for-Image-Generation) is trained on 1000 random sections from all images in Python/hirise/*.png 
+to get started with your own [DCVAE](https://github.com/chaitanya100100/VAE-for-Image-Generation) follow the steps below 
 
-1. Download a [Digital terrain map](https://www.uahirise.org/dtm/) from HiRise
+Download a [Digital terrain map](https://www.uahirise.org/dtm/) from HiRise
 ![](https://github.com/pearsonkyle/Mars-Machina/blob/master/hirise_web.png)
 
-Save to Python/hirise/ as a png file. Make sure to trim the unnecessary regions in GIMP or photoshop before training. See the current file for an example
+Save the DTM image to the directory: Python/hirise/ as a png file. Make sure to trim the unnecessary regions in GIMP or photoshop before training. See the current file for an example
 
 Train a quick model: 
 ```
