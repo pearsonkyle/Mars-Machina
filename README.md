@@ -8,7 +8,7 @@ A deep convolutional variational autoencoder trained on digital terrain maps of 
 - [Unity ML Agents](https://github.com/llSourcell/Unity_ML_Agents/tree/master/docs)
 - https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity-(Experimental).md
 - [Python 3.6+](https://www.anaconda.com/distribution/)
-- Keras, Tensorflow, Matplotlib, Numpy, PIL, Scikit-learn
+- Keras, Tensorflow==1.4, Matplotlib, Numpy, PIL, Scikit-learn
 
 ## Python
 to get started with your own [DCVAE](https://github.com/chaitanya100100/VAE-for-Image-Generation) follow the steps below 
