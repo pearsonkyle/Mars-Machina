@@ -7,7 +7,7 @@ A deep convolutional variational autoencoder trained on digital terrain maps of 
 - [Unity 3D](https://unity.com/)
 - [Unity ML Agents](https://github.com/llSourcell/Unity_ML_Agents/tree/master/docs)
 - https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity-(Experimental).md
-- Python 3.6+
+- [Python 3.6+](https://www.anaconda.com/distribution/)
 - Keras, Tensorflow, Matplotlib, Numpy, PIL, Scikit-learn
 
 ## Python
