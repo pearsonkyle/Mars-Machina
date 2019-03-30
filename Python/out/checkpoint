@@ -1,0 +1,2 @@
+model_checkpoint_path: "hirise2d_128.chkp"
+all_model_checkpoint_paths: "hirise2d_128.chkp"
